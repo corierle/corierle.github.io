@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://corierle.github.io/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/app/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/assets/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/css/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/data/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/includes/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/item/sitemap.corierle.gz
+Sitemap: https://corierle.github.io/src/sitemap.corierle.gz
